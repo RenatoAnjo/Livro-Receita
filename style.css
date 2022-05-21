@@ -1,10 +1,11 @@
 body {
     background: #dbf3e5;
     font-family: Arial, Helvetica, sans-serif;
-
+    width: 100%;
+    height: 100%;
 }
 
-div#tipos-preparos {
+#tipos-preparos {
     color:black;
 
 }
@@ -16,4 +17,17 @@ a:link {
     text-decoration: none;
   }
 
+.rodape {
+    position: absolute;
+    background-color: rgb(136, 136, 138);
+    color: #FFF;
+    width: 100%;
+    height: 90px;    
+    text-align: center;
+    line-height: 100px;
+  }
  
+.rodape .rodape-letra {
+    color: rgb(27, 25, 25);
+    font-style: italic;
+}

@@ -1,5 +1,11 @@
 # Livro de Receitas
-<hr>
+## Objetivo:
+Aprimorar  habilidades utilizando as seguintes tecnologias:<br>
+HTML e CSS 
 
-<p>Utilizando as seguintes tecnologias: HTML e CSS</p>
+## Webpage: <br>
+<p> Página principal com tipos de preparo. <br>
+Páginas com as receitas.<br>
+Formulário de comentário em cada receita.
+</p>
 
